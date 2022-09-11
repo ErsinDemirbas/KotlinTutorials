@@ -8,7 +8,7 @@
 fun main() {
 
     var sayilar = 1..20 // 1 den 20 ye kadar ileri
-    var adanZye = 'a'..'z'  // z den a ya kadar ileri
+    var adanZye = 'a'..'z'  // a dan z ye kadar ileri
 
     var sayilarTersten = 20 downTo 1 // 20 den 1 e kadar geriye
     var harfleTersten = 'z' downTo 'a' // z den a ya kadar geriye
